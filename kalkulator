@@ -1,0 +1,12 @@
+run:
+Masukkan Angka Pertama:7
+Masukkan angka kedua:3
+Pilih Salah Satu Operasi:
+1. Penjumlahan
+2. Pengurangan
+3. Perkalian
+4. Pembagian
+5. Power
+~Masukkan Pillihan Anda:3
+7.0x3.0=21.0
+BUILD SUCCESSFUL (total time: 20 seconds)
